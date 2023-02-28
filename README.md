@@ -8,7 +8,7 @@
 
 Screenshots of application:
 
-- ![alt text](./Assets/workday%20scheduler%20screenshot.png)11
+- ![alt text](./Assets/workday%20scheduler%20screenshot.png)
 
 - Step One: Input text and local storage will save it.
 - Step Two: Upon refresh, the text that was entered should be displayed in the text field.
