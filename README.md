@@ -2,7 +2,7 @@
 
 ## Description
 
-- I created a simple workday planner application that loops through the hours of 9am to 5pm for the current date that the user opens the planner application. The application uses day.js to navigate the time, and also allows the user to enter and store text on the time blocks that are specific in colors representing the past time, which is in gray, the present time, which is in red, and the future times, which are in green. The data will be stored the localStorage of the browser allowing the user to retrieve their data at any time.
+- I created a simple workday planner application that loops through the hours of 9am to 5pm for the current date that the user opens the planner application. The application uses day.js to navigate the time, and also allows the user to enter and store text on the time blocks that are specific in colors representing the past time, which is in gray, the present time, which is in red, and the future times, which are in green. The data will be stored the localStorage of the browser allowing the user to retrieve their data at any time after refresh.
 
 ## Usage 
 
